@@ -58,7 +58,7 @@ git clone [https://github.com/fahadahmedkhokhar/Bacteria-Dtection.git]
 ```
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 3. Apply migrations:
 ```bash
