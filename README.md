@@ -2,9 +2,8 @@
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-blue.svg)]()
-[![Django](https://img.shields.io/badge/django-3.0%20|%203.1%20|%203.2-blue.svg)]()
-[![Django Rest Framework](https://img.shields.io/badge/django%20rest%20framework-3.11%20|%203.12%20|%203.13-blue.svg)]()
+[![Python](https://img.shields.io/badge/python-3.8%20-blue.svg)]()
+[![Django](https://img.shields.io/badge/django-5.0.4%20-blue.svg)]()
 
 ## Description
 
