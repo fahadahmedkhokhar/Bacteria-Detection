@@ -44,17 +44,19 @@ conda activate bacteria-detection
 
 ```bash
 git clone [https://github.com/fahadahmedkhokhar/Bacteria-Dtection.git]
-
+```
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 3. Apply migrations:
 ```bash
 python manage.py migrate
+```
 4. Run the development server:
 ```bash
 python manage.py runserver
+```
 
 ## Acknowledgment:
 The authors would like to thank HEC- National Research Program for Universities of Pakistan (ProjectNumber : 7794).
