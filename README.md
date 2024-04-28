@@ -72,6 +72,9 @@ python manage.py runserver
 
 Paper link is [here](https://doi.org/10.1007/s00371-024-03382-7)
 
+## Hardware:
+This project included the hardware which is used to collect the samples from the different places. 
+![Alt robot](Hardware.png)
 ## Acknowledgment:
 The authors would like to thank HEC- National Research Program for Universities of Pakistan (ProjectNumber : 7794).
 
