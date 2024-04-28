@@ -12,11 +12,11 @@ Detection of Bacteria using the SSD Net with web interface
 
 ## Features
 
-- **Water Contamination Detection: **The solution detects whether water is contaminated or not, providing vital information for human survival, especially in regions where clean water is scarce.
+- **Water Contamination Detection:** The solution detects whether water is contaminated or not, providing vital information for human survival, especially in regions where clean water is scarce.
 - **Rapid Results:** Overcomes the delay time in getting the result of water contamination using traditional methods, which can take up to 5–6 hours. This implies a significant improvement in response time, crucial for addressing water contamination promptly.
--** Bacteria Detection:** Utilizes a novel deep learning-based model to detect colonies of bacteria in water samples, post gram staining. This approach helps in identifying the type of bacteria present and their respective quantities, providing insights into potential health risks associated with water consumption.
+- **Bacteria Detection:** Utilizes a novel deep learning-based model to detect colonies of bacteria in water samples, post gram staining. This approach helps in identifying the type of bacteria present and their respective quantities, providing insights into potential health risks associated with water consumption.
 - **Customizable Parameters:** Allows users to specify parameters for the deep learning model, enhancing flexibility and adaptability to different scenarios and datasets.
-- **Comprehensive Testing: **Conducts tests using datasets from various researchers to improve the ability to detect a wide range of dangerous bacteria, including E. coli, yeast, and other particles commonly found in contaminated water sources.
+- **Comprehensive Testing:** Conducts tests using datasets from various researchers to improve the ability to detect a wide range of dangerous bacteria, including E. coli, yeast, and other particles commonly found in contaminated water sources.
 - **Accuracy:** Achieves a high accuracy rate of 84.56% on test benchmarks, indicating reliable performance in detecting water contamination and identifying harmful bacteria.
 - **Quantification of Contamination:** Provides information on the level of contamination in water, aiding in assessing the severity of the issue and guiding appropriate remedial actions.
 
