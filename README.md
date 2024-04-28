@@ -1,4 +1,4 @@
-# Bacteria-Dtection
+# Harnessing deep learning for faster water quality assessment: identifying bacterial contaminants in real time
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
