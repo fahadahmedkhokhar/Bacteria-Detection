@@ -22,9 +22,11 @@ Detection of Bacteria using the SSD Net with web interface
 
 ## Requirements
 
-- Python 3.x
-- Django 3.x
-- Additional requirements if any
+- Python 3.8
+- Django 5.0.4
+- Tensorflow 2.8.0
+- tensorflow-object-detection-api 0.1.1
+- opencv-python 4.9.0
 
 
 ## Installation
