@@ -26,9 +26,55 @@ Detection of Bacteria using the SSD Net with web interface
 - Django 3.x
 - Additional requirements if any
 
+
 ## Installation
+
+The code uses **Python 3.8**.
+
+#### Create a Conda virtual environment:
+
+```bash
+conda create --name bacteria-detection python=3.8
+conda activate bacteria-detection
+```
+
+#### Clone the project and install requirements:
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_project.git
+git clone [https://github.com/fahadahmedkhokhar/Bacteria-Dtection.git]
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+3. Apply migrations:
+```bash
+python manage.py migrate
+4. Run the development server:
+```bash
+python manage.py runserver
+
+## Acknowledgment:
+The authors would like to thank HEC- National Research Program for Universities of Pakistan (ProjectNumber : 7794).
+
+## Citation
+
+If you use the Dataset and/or this code - implicitly or explicitly - for your research projects, please cite the following paper:
+
+```
+@article{khokhar2024harnessing,
+  title={Harnessing deep learning for faster water quality assessment: identifying bacterial contaminants in real time},
+  author={Khokhar, Fahad Ahmed and Shah, Jamal Hussain and Saleem, Rabia and Masood, Anum},
+  journal={The Visual Computer},
+  pages={1--12},
+  year={2024},
+  publisher={Springer}
+}
+```
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
