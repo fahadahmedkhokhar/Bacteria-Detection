@@ -6,8 +6,18 @@
 [![Django](https://img.shields.io/badge/django-5.0.4%20-blue.svg)]()
 
 ## Description
+Water is essential for human survival. Humans can live without food for a few days but without water, 
+a person can barely survive for 3–5 days. Various parts of the world, particularly under-developed countries, 
+have regions where clean water is scarce, and humans living in such conditions have no access to clean water. 
+Our solution provides information on whether water is contaminated or not. Moreover, it overcomes the delay time in getting 
+the result of water contamination using traditional methods of up to 5–6 hrs. Our proposed method detects the colonies of 
+the bacteria that are taken from the water sample (after gram staining) and then classifies the type of bacteria to whom 
+it belongs and how much quantity of each bacterium causes infection to the human body. Bacteria detection is performed by
+a novel deep learning-based model with user-specified parameters. To improve our ability to detect dangerous bacteria including
+E. coli, yeast, and particles, we perform tests using datasets from a variety of researchers. On the test benchmark,
+the fine-tuned proposed model achieves 84.56% accuracy and provides the level of contamination in water.
 
-Detection of Bacteria using the SSD Net with web interface
+![Alt proposed_model](static/assets/img/landing/3.png)
 
 ## Features
 
@@ -58,6 +68,9 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
+## Paper:
+
+Paper link is [here](https://doi.org/10.1007/s00371-024-03382-7)
 
 ## Acknowledgment:
 The authors would like to thank HEC- National Research Program for Universities of Pakistan (ProjectNumber : 7794).
