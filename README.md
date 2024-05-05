@@ -45,7 +45,7 @@ The code uses **Python 3.10**.
 #### Create a Conda virtual environment:
 
 ```bash
-conda create --name bacteria-detection python=3.8
+conda create --name bacteria-detection python=3.10
 conda activate bacteria-detection
 ```
 
