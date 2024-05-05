@@ -2,7 +2,7 @@
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8%20-blue.svg)]()
+[![Python](https://img.shields.io/badge/python-3.10%20-blue.svg)]()
 [![Django](https://img.shields.io/badge/django-5.0.4%20-blue.svg)]()
 
 ## Description
@@ -31,7 +31,7 @@ the fine-tuned proposed model achieves 84.56% accuracy and provides the level of
 
 ## Requirements
 
-- Python 3.8
+- Python 3.10
 - Django 5.0.4
 - Tensorflow 2.8.0
 - tensorflow-object-detection-api 0.1.1
@@ -40,7 +40,7 @@ the fine-tuned proposed model achieves 84.56% accuracy and provides the level of
 
 ## Installation
 
-The code uses **Python 3.8**.
+The code uses **Python 3.10**.
 
 #### Create a Conda virtual environment:
 
