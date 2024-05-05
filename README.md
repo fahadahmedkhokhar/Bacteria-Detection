@@ -54,7 +54,7 @@ conda activate bacteria-detection
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/fahadahmedkhokhar/Bacteria-Dtection.git]
+git clone https://github.com/fahadahmedkhokhar/Bacteria-Dtection.git
 ```
 2. Install dependencies:
 ```bash
